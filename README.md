@@ -6,7 +6,8 @@ This is a small project that began as initially a way to test my own knowledge t
 
 
 Live demonstration here - currently only supporting desktop platforms but still continuing development. 
-I recommend opening the live preview in a new window  https://codesandbox.io/s/young-night-gytcc
+I recommend opening the live preview in a new window as the intergrated browser is very buggy in the sandbox. 
+You can open the live preview by visiting https://codesandbox.io/s/young-night-gytcc to build the web app and then heading over to https://gytcc.csb.app/ .
 
 
 Currently supports 3 regions with 3 radio broadcasting stations. 
